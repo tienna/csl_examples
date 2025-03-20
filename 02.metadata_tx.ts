@@ -2,7 +2,7 @@ import * as CSL from "@emurgo/cardano-serialization-lib-nodejs";
 import { mnemonicToEntropy }  from "bip39";
 import { Buffer } from "node:buffer";
  
-const MNEMONIC = "leisure come endorse situate perfect slender helmet pond next host mean great program antenna ecology used scheme indoor various conduct border swamp spread spin";
+const MNEMONIC = "key in your 24 words of your mnemonic here, words separated by spaces";
 const INPUT_HASH ="9fc9bb3ea1f2540ae870076e6543b5d804566a548db9da9e16c5271596e8dc9d"
 const INPUT_INDEX =1; 
 const INPUT_AMOUNT = "113185492" ;  //Lovelace on your UTXO

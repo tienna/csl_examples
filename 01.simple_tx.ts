@@ -19,7 +19,7 @@ import { mnemonicToEntropy } from "bip39";
 import { Buffer } from "node:buffer";
  
 //adding your a mnemomic, input_hash, tx_index
-const MNEMONIC = "leisure come endorse situate perfect slender helmet pond next host mean great program antenna ecology used scheme indoor various conduct border swamp spread spin";
+const MNEMONIC = "key in your 24 words of your mnemonic here, words separated by spaces";
 const TX_HASH ="372467a317554bcf1e1d172b5418b9eed850fc7f2c1a1d15f91c06b05fc09499"
 const TX_INDEX =0; 
 const INPUT_AMOUNT = "397000000" ;  //Lovelace on your UTXO
